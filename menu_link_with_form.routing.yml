@@ -1,0 +1,7 @@
+menu_link_with_form.custom_form:
+ path: 'my-menu-form'
+ defaults:
+  _form: '\Drupal\menu_link_with_form\Form\CustomForm'
+  _title: ''
+ requirements:
+   _permission: 'access content'

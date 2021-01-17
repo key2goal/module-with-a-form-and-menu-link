@@ -1,0 +1,5 @@
+name: Custom Menu with Form
+description: hook menu with form drupal 8 example module
+core: 8.x
+type: module
+package: Key2Goal
